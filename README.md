@@ -31,7 +31,7 @@
 
 ###
 
-<img align="left" height="190" src="https://user-images.githubusercontent.com/74038190/1674617947228.gif"  />
+<img align="left" height="190" src="1674617947228.gif"  />
 
 ###
 
