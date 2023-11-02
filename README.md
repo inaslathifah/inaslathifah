@@ -19,8 +19,8 @@
 ###
 
 <div align="center">
+   <span style='font-size:100px;'>&#127817;</span>
   <div class="flag">
-    <span style='font-size:100px;'>&#127817;</span>
     <label for="flag-">&#127477;&#127480;</label>
     <label for="flag-">&#127470;&#127465;</label>
   </div>
