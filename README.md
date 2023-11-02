@@ -21,6 +21,9 @@
 <div align="center">
 
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finaslathifah&label=Visitors&countColor=%232c94e4&style=flat)
+  <span style='font-size:50px;'>&#127817;</span>
+  <span style='font-size:50px;'>&PS;</span>
+  <span style='font-size:50px;'>&ID;</span>
 
 </div>
 
