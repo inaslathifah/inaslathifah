@@ -19,12 +19,10 @@
 ###
 
 <div align="center">
-   <span style='font-size:100px;'>&#127817;</span>
-  <div class="flag">
-    <label for="flag-">&#127477;&#127480;</label>
-    <label for="flag-">&#127470;&#127465;</label>
-  </div>
-  <!-- <span style='font-size:100px;'>&#127817;</span>
+   <span style='font-size:150px;'>&#127817;</span>
+   <span style='font-size:150px;'>&#127817;</span>
+   <span style='font-size:150px;'>&#127817;</span>
+  <!-- 
   <span style='font-size:100px;'>&#127477;&#127480;</span>
   <span style='font-size:100px;'>&#127470;&#127465;</span> -->
 </div>
