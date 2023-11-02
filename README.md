@@ -21,8 +21,8 @@
 <div align="center">
   <div class="flag">
     <span style='font-size:100px;'>&#127817;</span>
-    <span for="flag-">&#127477;&#127480;</span>
-    <span for="flag-">&#127470;&#127465;</span>
+    <label for="flag-">&#127477;&#127480;</label>
+    <label for="flag-">&#127470;&#127465;</label>
   </div>
   <!-- <span style='font-size:100px;'>&#127817;</span>
   <span style='font-size:100px;'>&#127477;&#127480;</span>
