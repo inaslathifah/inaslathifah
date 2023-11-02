@@ -17,11 +17,13 @@
 </div>
 
 ###
-<div>
+
+<div align="center">
   <span style='font-size:50px;'>&#127817;</span>
-  <span style='font-size:50px;'>&#127477;</span>
-  <span style='font-size:50px;'>&#127470;</span>
+  <span style='font-size:50px;'>&#127477;&#127480;</span>
+  <span style='font-size:50px;'>&#127470;&#127465;</span>
 </div>
+
 ###
 
 ###
