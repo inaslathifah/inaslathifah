@@ -11,29 +11,10 @@
   <a href="mailto:inas.lathifah96@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/lathifahins/">
+<!--   <a href="https://www.instagram.com/lathifahins/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C71585&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
-  </a>
+  </a> -->
 </div>
-
-###
-
-<div align="center">
-   <span style='font-size:100px;'>&#127817;</span>
-   <span style='font-size:100px;'>&#127817;</span>
-   <span style='font-size:100px;'>&#127817;</span>
-   <span style='font-size:100px;'>&#127817;</span>
-   <span style='font-size:100px;'>&#127817;</span>
-   <span style='font-size:100px;'>&#127817;</span>
-   <span style='font-size:100px;'>&#127817;</span>
-   <span style='font-size:100px;'>&#127817;</span>
-   <span style='font-size:100px;'>&#127817;</span>
-  <!-- 
-  <span style='font-size:100px;'>&#127477;&#127480;</span>
-  <span style='font-size:100px;'>&#127470;&#127465;</span> -->
-</div>
-
-###
 
 ###
 <div align="center">
