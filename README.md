@@ -59,6 +59,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Flutter-D3D3D3?logo=flutter&logoColor=blue&style=for-the-badge" height="35" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000?logo=netlify&logoColor=#00C7B7&style=for-the-badge" height="35" alt="netlify logo"  />
 </div>
 
 ###
