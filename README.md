@@ -8,12 +8,12 @@
   <a href="www.linkedin.com/in/inas-lathifah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
-  <a href="mailto:inas.lathifah96@gmail.com">
+  <!-- <a href="mailto:inas.lathifah96@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-  </a>
-<!--   <a href="https://www.instagram.com/lathifahins/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C71585&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
   </a> -->
+<a href="https://www.instagram.com/lathifahins/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C71585&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -43,7 +43,7 @@
 
 <br/>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tech Skill</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -83,4 +83,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inaslathifah/inaslathifah/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
+### -->
