@@ -61,7 +61,7 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/Netlify-%23000000?logo=netlify&logoColor=#00C7B7&style=for-the-badge" height="35" alt="netlify logo"  />
   <img width="15" />
-  <img src="https://img.shields.io/badge/Git-white?logo=git&logoColor=black&style=for-the-badge" height="35" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Git-white?logo=git&logoColor=E34F26&style=for-the-badge" height="35" alt="git logo"  />
 </div>
 
 ###
