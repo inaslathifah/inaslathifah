@@ -44,24 +44,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge" height="35" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="35" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Flutter-D3D3D3?logo=flutter&logoColor=blue&style=for-the-badge" height="35" alt="flutter logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Netlify-%23000000?logo=netlify&logoColor=#00C7B7&style=for-the-badge" height="35" alt="netlify logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Git-white?logo=git&logoColor=E34F26&style=for-the-badge" height="35" alt="git logo"  />
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ###
