@@ -2,6 +2,8 @@
   <img height="250" src="816054217.png"  />
 </div> -->
 
+<h1 align="center">Hi, I'm Inas Lathifah 👋</h1>
+
 ###
 
 <div align="center">
@@ -14,15 +16,12 @@
 </div>
 
 ###
+
 <div align="center">
 
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finaslathifah&label=Visitors&countColor=%232c94e4&style=flat)
 
 </div>
-
-###
-
-<h1 align="center">Hi, I'm Inas Lathifah 👋</h1>
 
 ###
 
